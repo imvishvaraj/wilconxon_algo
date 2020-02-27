@@ -1,0 +1,41 @@
+"""
+Problem: Implement Wilconxon Signed Rank Test without any third party library
+Company: Algo
+Author: Vishvaraj Dhanawade
+Email: vishvarajdhnwd120@gmail.com
+"""
+
+Question 1:
+For 48806 and 47106 test statistic for negative is 27113 and positive is 19693
+For 48806 and 47287 test statistic for negative is 5310 and positive is 40169
+For 48806 and 48020 test statistic for negative is 787 and positive is 141469
+For 48806 and 48863 test statistic for negative is 23464 and positive is 8373
+For 48806 and 50546 test statistic for negative is 34440 and positive is 17285
+
+Question 2:
+For 48806 and permutation of (47106, 47287) test statistic for negative is 18653 and positive is 45421
+For 48806 and permutation of (47106, 48020) test statistic for negative is 2943 and positive is 136665
+For 48806 and permutation of (47106, 48863) test statistic for negative is 41851 and positive is 20349
+For 48806 and permutation of (47106, 50546) test statistic for negative is 49967 and positive is 26606
+For 48806 and permutation of (47287, 47106) test statistic for negative is 18653 and positive is 45421
+For 48806 and permutation of (47287, 48020) test statistic for negative is 1359 and positive is 174606
+For 48806 and permutation of (47287, 48863) test statistic for negative is 18548 and positive is 37939
+For 48806 and permutation of (47287, 50546) test statistic for negative is 24180 and positive is 41416
+For 48806 and permutation of (48020, 47106) test statistic for negative is 2943 and positive is 136665
+For 48806 and permutation of (48020, 47287) test statistic for negative is 1359 and positive is 174606
+For 48806 and permutation of (48020, 48863) test statistic for negative is 2488 and positive is 129049
+For 48806 and permutation of (48020, 50546) test statistic for negative is 3812 and positive is 128699
+For 48806 and permutation of (48863, 47106) test statistic for negative is 41851 and positive is 20349
+For 48806 and permutation of (48863, 47287) test statistic for negative is 18548 and positive is 37939
+For 48806 and permutation of (48863, 48020) test statistic for negative is 2488 and positive is 129049
+For 48806 and permutation of (48863, 50546) test statistic for negative is 50022 and positive is 18990
+For 48806 and permutation of (50546, 47106) test statistic for negative is 49967 and positive is 26606
+For 48806 and permutation of (50546, 47287) test statistic for negative is 24180 and positive is 41416
+For 48806 and permutation of (50546, 48020) test statistic for negative is 3812 and positive is 128699
+For 48806 and permutation of (50546, 48863) test statistic for negative is 50022 and positive is 18990
+
+Question 3
+Best Non-key column with 48806 is: 48020
+
+Question 4
+Best Non-key column 48806 with permutation of (47287, 48020).
